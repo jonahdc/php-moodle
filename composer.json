@@ -1,0 +1,10 @@
+{
+    "name": "test/testpackage",
+    "description": "A short description of what your package does",
+    "require": {
+      "doctrine/orm": "2.3.*",
+      "doctrine/common": "2.4.0",
+      "doctrine/dbal": "2.5.12 as 2.3.0",
+      "moodle/moodle": "3.2.2"
+    }
+}
